@@ -16,6 +16,13 @@ The goal is to explore and present relevant data related to breast cancer awaren
 
 ---
 
+## 📊 Dashboard Preview
+
+- Power BI report pages (PDF export): [Rapport Octobre Rose.pdf](./Rapport%20Octobre%20Rose.pdf)
+- Alternate version: [Rapport Octobre Rose Fond blanc.pdf](./Rapport%20Octobre%20Rose%20Fond%20blanc.pdf)
+
+---
+
 ## 📂 Data Sources
 - Type: [Open data / public dataset / synthetic data]
 - Description:
