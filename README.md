@@ -3,7 +3,7 @@
 ## 📌 Project Description
 This project focuses on creating Power BI visualizations for Pink October awareness, supporting the writing of an analytical article.
 
-The goal is to explore and present relevant data related to breast cancer awareness, trends, and key indicators through interactive dashboards.
+The goal is to explore and present relevant data related to breast cancer awareness, trends, and key indicators through static report pages exported from Power BI.
 
 ---
 
