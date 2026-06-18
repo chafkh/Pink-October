@@ -59,7 +59,7 @@ Key metrics included in the dashboard:
 
 ## 👤 Author
 **Chafi Khermouche**
-- LinkedIn: [https://www.linkedin.com/in/chafi-khermouche/]
+- LinkedIn: https://www.linkedin.com/in/chafi-khermouche/
 - GitHub: https://github.com/[chafkh]
 
 ---
