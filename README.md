@@ -15,14 +15,6 @@ The goal is to explore and present relevant data related to breast cancer awaren
 ---
 
 ## 📂 Data Sources
-- Type: Public dataset
-- Description:
-  - Dataset includes information on [patients, screenings, regions, etc.]
-- Volume: [e.g. 50k rows]
-
----
-
-## 📂 Data Sources
 
 The data used in this project comes from public sources provided by Santé publique France:
 
@@ -38,23 +30,8 @@ This project follows a data pipeline approach:
 
 - Data source extraction
 - Data transformation (cleaning, filtering, enrichment)
-- Data modeling
-- Visualization in Power BI
-
-Example flow:
-`Source → Transformation → Data Model → Power BI Dashboard`
-
----
-
-## 🧱 Data Modeling
-- Fact table: [e.g. screening_records]
-- Dimension tables:
-  - patients
-  - regions
-  - time
-
-- Relationships:
-  - Star schema (if applicable)
+- No Data modeling needs !
+- Measures creation and visualization in Power BI
 
 ---
 
@@ -71,17 +48,21 @@ Key metrics included in the dashboard:
 
 ## 🛠️ Tools & Technologies
 - Power BI
-- SQL (if used)
+- Power Query
 - Excel / CSV
-- [Talend / Snowflake if applicable]
-
----
-
-## ▶️ How to Use
-1. Download the `.pbix` file
-2. Open with Power BI Desktop
-3. Refresh data if needed
 
 ---
 
 ## 📁 Repository Structure
+
+---
+
+## 👤 Author
+**Chafi Khermouche**
+- LinkedIn: [https://www.linkedin.com/in/chafi-khermouche/]
+- GitHub: https://github.com/[chafkh]
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
