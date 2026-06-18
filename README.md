@@ -54,8 +54,8 @@ Key metrics included in the dashboard:
 ---
 
 ## 📁 Repository Structure
-/data → datasets
-/Vizualisation → screenshots
+- data → datasets
+- /Vizualisation → screenshots
 
 ---
 
