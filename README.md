@@ -8,15 +8,6 @@ The goal is to explore and present relevant data related to breast cancer awaren
 ---
 
 ## 📊 Dashboard Preview
-<!-- Add screenshots or links -->
-- Power BI report: [Add link here]
-- Preview:
-
-![Dashboard Screenshot](./images/dashboard.png)
-
----
-
-## 📊 Dashboard Preview
 
 - Power BI report pages (PDF export): [Rapport Octobre Rose.pdf](./Rapport%20Octobre%20Rose.pdf)
 - Alternate version: [Rapport Octobre Rose Fond blanc.pdf](./Rapport%20Octobre%20Rose%20Fond%20blanc.pdf)
@@ -24,10 +15,21 @@ The goal is to explore and present relevant data related to breast cancer awaren
 ---
 
 ## 📂 Data Sources
-- Type: [Open data / public dataset / synthetic data]
+- Type: Public dataset
 - Description:
   - Dataset includes information on [patients, screenings, regions, etc.]
 - Volume: [e.g. 50k rows]
+
+---
+
+## 📂 Data Sources
+
+The data used in this project comes from public sources provided by Santé publique France:
+
+- [Taux de participation au programme de dépistage organisé du cancer du sein en 2022-2023 et évolution depuis 2005](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-sein/articles/taux-de-participation-au-programme-de-depistage-organise-du-cancer-du-sein-en-2022-2023-et-evolution-depuis-2005)
+- [Taux de participation au programme de dépistage organisé du cancer du sein en 2024 et évolution depuis 2005](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-sein/articles/taux-de-participation-au-programme-de-depistage-organise-du-cancer-du-sein-en-2024-et-evolution-depuis-2005)
+
+These sources provide participation rates for the organized breast cancer screening program in France and track the evolution since 2005.
 
 ---
 
